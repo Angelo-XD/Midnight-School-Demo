@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2508949893970155522
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4399616028750221268}
+  m_Layer: 0
+  m_Name: Electricity Box
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4399616028750221268
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2508949893970155522}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -28.471, y: -2.5, z: -14.444}
+  m_LocalScale: {x: 4.5, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7643208892108130310}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2534097035546162501
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4399616028750221268}
+    m_Modifications:
+    - target: {fileID: 4788199977335613433, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_Name
+      value: 1712
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 471.60037
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 471.60013
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.9821205
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5100391
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.34963703
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.6952702
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.14607161
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.12773179
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.6920601
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 1.508
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 22.329
+      objectReference: {fileID: 0}
+    - target: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -269.967
+      objectReference: {fileID: 0}
+    - target: {fileID: 9121779067100607206, guid: 42b7eb2c3b6bac046807389218d750bb,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 1756152709740968620, guid: 5695b06643e2b9c4fb92171ed7159bce,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 42b7eb2c3b6bac046807389218d750bb, type: 3}
+--- !u!4 &7643208892108130310 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5276189263190244675, guid: 42b7eb2c3b6bac046807389218d750bb,
+    type: 3}
+  m_PrefabInstance: {fileID: 2534097035546162501}
+  m_PrefabAsset: {fileID: 0}

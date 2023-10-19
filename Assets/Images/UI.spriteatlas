@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2cc673b204b11c04f94b92b8847f3ab7, type: 3}
+    - {fileID: 2800000, guid: 8fb52106bf43ffc41a49395a2f263f68, type: 3}
+    - {fileID: 2800000, guid: 1376b95b0897ec9419bdd4445e12f153, type: 3}
+    - {fileID: 2800000, guid: 52d2b2ecd53dbc246b154ebfa5774ed0, type: 3}
+    - {fileID: 2800000, guid: 12915d1f43dd8c04c967e26d3c37e353, type: 3}
+    - {fileID: 2800000, guid: ede2790b471d310448081e40b601bd4b, type: 3}
+    - {fileID: 2800000, guid: 6259e60f6e0f9694882254bd0b6560ce, type: 3}
+    - {fileID: 102900000, guid: fe9d0ffced850b24186b03557ec87fa8, type: 3}
+    - {fileID: 102900000, guid: f36f8459cb8c3fd44ba4390ba9652af8, type: 3}
+    - {fileID: 2800000, guid: f38bcfd2f9e27154880a9b6944f8d0bc, type: 3}
+    - {fileID: 2800000, guid: 6fbbde15acf7a554fbb04b17d96ca520, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3d7922603113c0e48a37ab2bdb752032, type: 3}
+  - {fileID: 21300000, guid: 6304ad603f150b649b764d29bbc2a87b, type: 3}
+  - {fileID: 21300000, guid: 085185b08a40a924985bc0e4176edea6, type: 3}
+  - {fileID: 21300000, guid: 2e11aeb0cb69fa646b76085617043ccb, type: 3}
+  - {fileID: 21300000, guid: 7a618c32a18aad840ac5ffdc685fb9cd, type: 3}
+  - {fileID: 21300000, guid: 2cc673b204b11c04f94b92b8847f3ab7, type: 3}
+  - {fileID: 21300000, guid: f38bcfd2f9e27154880a9b6944f8d0bc, type: 3}
+  - {fileID: 21300000, guid: 7927b9032dc11e841af3f9a1353d7ecd, type: 3}
+  - {fileID: 21300000, guid: 0a502a03934556c4db55d148ea177e2d, type: 3}
+  - {fileID: 21300000, guid: ab6db91373811284caeba2e9472fa9c2, type: 3}
+  - {fileID: 21300000, guid: 010a6e5305fa7004f89c5d317b7b47d4, type: 3}
+  - {fileID: 21300000, guid: 08c1fa6351174a9439d97cfc9d3307cc, type: 3}
+  - {fileID: 21300000, guid: 097782735540f2d4db5606eae04ae6a7, type: 3}
+  - {fileID: 21300000, guid: 84487d73ca4b791498332d8f6858417f, type: 3}
+  - {fileID: 21300000, guid: a6c56474666ce0647bdb766e9b4764b3, type: 3}
+  - {fileID: 21300000, guid: 236e4f94e92afaf419eb0604dcac9b29, type: 3}
+  - {fileID: 21300000, guid: cab59e15a107774479582fcbe827e6fd, type: 3}
+  - {fileID: 21300000, guid: 6fbbde15acf7a554fbb04b17d96ca520, type: 3}
+  - {fileID: 21300000, guid: 357c6145c3d571547863f8120ff54e0d, type: 3}
+  - {fileID: 21300000, guid: 4cbc879550e5e374a925e2e0a84d6f3c, type: 3}
+  - {fileID: 21300000, guid: b8467ea5fbaf9ba42908de6411bd443d, type: 3}
+  - {fileID: 21300000, guid: 8fb52106bf43ffc41a49395a2f263f68, type: 3}
+  - {fileID: 21300000, guid: c615706690ca87043ad593475e6db7ec, type: 3}
+  - {fileID: 21300000, guid: f1daa876d74cf644a8e4d942285324ab, type: 3}
+  - {fileID: 21300000, guid: 48c0d4d6bebaa934384b07aa1e2f8184, type: 3}
+  - {fileID: 21300000, guid: c8585b68a92b5d440992ddd7d1b1a3d6, type: 3}
+  - {fileID: 21300000, guid: 3a74f678ee8f3bd49aacf3de1ae4bcaa, type: 3}
+  - {fileID: 21300000, guid: c3d7311946f16a3468feedd05eeceae2, type: 3}
+  - {fileID: 21300000, guid: df1fb649ab6fb134797e5aeb7e77713a, type: 3}
+  - {fileID: 21300000, guid: 5eda94a9dcf71e445ad17e3c065d1460, type: 3}
+  - {fileID: 21300000, guid: 3bf6d9f920f7458448a390f80318ebe6, type: 3}
+  - {fileID: 21300000, guid: 2a1f3cba20f3e11498474a705db12fde, type: 3}
+  - {fileID: 21300000, guid: fe5c2aea9e0ca6c43b51d7526fda3c16, type: 3}
+  - {fileID: 21300000, guid: 5b56d9fa0e8bd6e409ed188db38a692c, type: 3}
+  - {fileID: 21300000, guid: ede2790b471d310448081e40b601bd4b, type: 3}
+  - {fileID: 21300000, guid: cd0a2c1b2c014ba4c80c1df786e150e9, type: 3}
+  - {fileID: 21300000, guid: 1376b95b0897ec9419bdd4445e12f153, type: 3}
+  - {fileID: 21300000, guid: 3183d82c5602a1844997dd877a4d375b, type: 3}
+  - {fileID: 21300000, guid: 4fb8ac5cc7120452798a05a08b92550c, type: 3}
+  - {fileID: 21300000, guid: 52d2b2ecd53dbc246b154ebfa5774ed0, type: 3}
+  - {fileID: 21300000, guid: 9332cf0d233636a40a024382720294a3, type: 3}
+  - {fileID: 21300000, guid: f353d42d1db27ff42b78b28efd86b316, type: 3}
+  - {fileID: 21300000, guid: f054197ef28924b4986cbd91de2ab054, type: 3}
+  - {fileID: 21300000, guid: 6259e60f6e0f9694882254bd0b6560ce, type: 3}
+  - {fileID: 21300000, guid: 12915d1f43dd8c04c967e26d3c37e353, type: 3}
+  - {fileID: 21300000, guid: 55e2bb6f9f5ca5a49b08e414e97fd2be, type: 3}
+  - {fileID: 21300000, guid: 54628aafa20f64b40ae661038ee7abf0, type: 3}
+  - {fileID: 21300000, guid: b2c9a8dfa8378da42bd43021ad7ee90c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DecalsStain0031_1_S
+  - Horizontal_Ridged
+  - Handle_Outline
+  - DecalsDamagePlaster0062_1_S
+  - DecalsDamageBrick0015_1_S
+  - WHit Hand
+  - Croch
+  - Horizontal_Outline_Arrows
+  - Stained Wall 2
+  - Vertical_Plain
+  - Handle_Plain
+  - Vertical_Ridged
+  - Horizontal_Plain
+  - AllAxis_Plain
+  - Handle_Ridged_Arrows
+  - Shakthi Mann
+  - SignsTrespassing0045_2_S
+  - SprintIcon
+  - crack
+  - AllAxis_Ridged_Arrows
+  - Horizontal_Ridged_Arrows
+  - White Door
+  - Vertical_Outline_Arrows
+  - DecalsStain0012_1_S
+  - AllAxis_Outline_Arrows
+  - Horizontal_Plain_Arrows
+  - Handle_Ridged
+  - SignsElectricity0024_2_S
+  - SignsKorean0084_2_S
+  - Handle_Outline_Arrows
+  - Vertical_Plain_Arrows
+  - AllAxis_Plain_Arrows
+  - DecalsDamageConcrete0014_1_S
+  - AllAxis_Outline
+  - Ui BAcground
+  - Horizontal_Outline
+  - White Arrow
+  - Dirt
+  - Unknown
+  - White Drawer  png
+  - Vertical_Ridged_Arrows
+  - Handle_Plain_Arrows
+  - Vertical_Outline
+  - TExt Border
+  - White Notes
+  - DecalsLeaking0197_1_S
+  - AllAxis_Ridged
+  - SignsAcid0020_2_S
+  m_Tag: UI
+  m_IsVariant: 0

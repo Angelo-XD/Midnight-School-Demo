@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7564a94577765fd468c0f9e2d8d3c9a4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VANAVIL-Avvaiyar
+  fontNames:
+  - VANAVIL-Avvaiyar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: da9a75eb1d98e5248a3d496d9aa2bbaa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

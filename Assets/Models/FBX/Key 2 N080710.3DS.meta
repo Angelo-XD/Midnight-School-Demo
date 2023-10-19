@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 1ccfdd0bfa170064da26ed78dbecbe91
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Key 2 N080710(Clone)
+      parentName: 
+      position: {x: -0, y: 1.5324521, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box01
+      parentName: Key 2 N080710(Clone)
+      position: {x: 7.1768646, y: 0.37600827, z: -9.989643}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: ChamferCyl
+      parentName: Box01
+      position: {x: -0.874497, y: -0.24889565, z: 2.585139}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder01
+      parentName: Box01
+      position: {x: -0.01654125, y: 0.058766592, z: -0.011259019}
+      rotation: {x: 7.3834533e-10, y: -0.13052619, z: 9.720501e-11, w: 0.9914449}
+      scale: {x: 0.9999999, y: 1, z: 0.47390863}
+    - name: Circle01
+      parentName: Box01
+      position: {x: -0.24461222, y: -0.94539845, z: 5.1153455}
+      rotation: {x: 0.4170537, y: -0.11873048, z: -0.73257, w: 0.52470034}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Circle02
+      parentName: Circle01
+      position: {x: -0.6591225, y: -0.053109225, z: -0.006272913}
+      rotation: {x: 0.6148487, y: 0.11785435, z: -0.38573754, w: -0.67770064}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Ellipse12
+      parentName: Circle02
+      position: {x: -0.22313166, y: 0.08053213, z: -0.036343724}
+      rotation: {x: 0.5659327, y: -0.08833975, z: -0.8040053, w: 0.15966141}
+      scale: {x: -0.6102613, y: -0.9999999, z: -0.5710626}
+    - name: Ellipse11
+      parentName: Ellipse12
+      position: {x: 0.7940691, y: -0.04591134, z: -0.13385536}
+      rotation: {x: 0.011283677, y: 0.16360223, z: -0.026409859, w: 0.98610824}
+      scale: {x: 1.0275811, y: 1.0114058, z: 0.96218497}
+    - name: Circle03
+      parentName: Circle01
+      position: {x: -2.2824495, y: -0.8253978, z: 0.588704}
+      rotation: {x: -0.8382071, y: -0.27660474, z: 0.43848664, w: 0.1691987}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Circle04
+      parentName: Box01
+      position: {x: -4.5473013, y: -0.902579, z: 6.851752}
+      rotation: {x: -0.91782296, y: 0.09239251, z: 0.37748438, w: -0.08105679}
+      scale: {x: 1.0000001, y: 0.99999994, z: -0.99999994}
+    - name: Tube01
+      parentName: Key 2 N080710(Clone)
+      position: {x: 2.9865646, y: -0.93631625, z: 4.037796}
+      rotation: {x: -0.008868649, y: -0.15618275, z: 0.004309611, w: 0.98767895}
+      scale: {x: 1.2962369, y: 0.9999999, z: 1.0000001}
+    - name: Cylinder02
+      parentName: Tube01
+      position: {x: -1.193089, y: -0.37876093, z: -0.16206384}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.77146393, y: 1, z: 1}
+    - name: Box03
+      parentName: Cylinder02
+      position: {x: -0.00016855485, y: 0.193118, z: 0.00017118668}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.2959592, z: 1}
+    - name: Cone01
+      parentName: Tube01
+      position: {x: 0.59572244, y: -0.008841634, z: -0.14218783}
+      rotation: {x: 0.30997524, y: -0.3099752, z: 0.6355439, w: 0.63554287}
+      scale: {x: 1, y: 0.77146393, z: 1}
+    - name: Ellipse10
+      parentName: Key 2 N080710(Clone)
+      position: {x: 6.1699524, y: -1.2326224, z: 3.3180447}
+      rotation: {x: -0.9061575, y: -0.020378582, z: 0.42194873, w: 0.020558536}
+      scale: {x: -1.2181796, y: -2.0028584, z: -1.1426904}
+    - name: Ellipse09
+      parentName: Ellipse10
+      position: {x: 0.65488845, y: 0.062109716, z: 0.35079888}
+      rotation: {x: 0.17628585, y: -0.4558856, z: 0.05555727, w: 0.8706349}
+      scale: {x: 1.1156949, y: 0.9055776, z: 0.9897575}
+    - name: Box04
+      parentName: Key 2 N080710(Clone)
+      position: {x: -2.4532852, y: -0.37843037, z: 4.2120914}
+      rotation: {x: 0.033550136, y: -0.37839985, z: 0.013725728, w: 0.9249322}
+      scale: {x: 0.18, y: 0.17999998, z: 0.18000002}
+    - name: Box05
+      parentName: Box04
+      position: {x: -0.09492241, y: -0.7677852, z: 54.593426}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -2.4787781, y: 2.777778, z: 2.777778}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

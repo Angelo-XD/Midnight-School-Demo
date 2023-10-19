@@ -1,0 +1,344 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1322584277463697436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1322584277463697504}
+  - component: {fileID: 1322584277463697506}
+  - component: {fileID: 1322584277463697507}
+  m_Layer: 0
+  m_Name: CutScene Manger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1322584277463697504
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322584277463697436}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -15.145125, y: -10.992729, z: 9.208367}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!320 &1322584277463697506
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322584277463697436}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 65a6c669dfa62c24b9542115462ffaf3, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: 0}
+    value: {fileID: 0}
+  - key: {fileID: 0}
+    value: {fileID: 0}
+  - key: {fileID: 0}
+    value: {fileID: 1322584277463697507}
+  - key: {fileID: 4518828816931261162, guid: 2e31a2c9662dfc247b997910f551950b, type: 2}
+    value: {fileID: 1322584277463697507}
+  - key: {fileID: 171204870783038108, guid: c02ac0a193065c94f9fdac401e7c2f3f, type: 2}
+    value: {fileID: 1322584277463697507}
+  - key: {fileID: 7084059385841097604, guid: c02ac0a193065c94f9fdac401e7c2f3f, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -8392096013695285848, guid: c02ac0a193065c94f9fdac401e7c2f3f, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -8130144363940227239, guid: 2e31a2c9662dfc247b997910f551950b, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 2569815339721831964, guid: 2e31a2c9662dfc247b997910f551950b, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 836691690822465865, guid: 2e31a2c9662dfc247b997910f551950b, type: 2}
+    value: {fileID: 1322584277463697507}
+  - key: {fileID: -1527012510686889451, guid: 586a10e6235657f468e209c1dfed69a2, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 6514853122835797774, guid: 586a10e6235657f468e209c1dfed69a2, type: 2}
+    value: {fileID: 1322584277463697507}
+  - key: {fileID: -111216740431458486, guid: 467e7e7e9a3942749ad4b1f3a2a19881, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -6697226549069017285, guid: 467e7e7e9a3942749ad4b1f3a2a19881, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 7799116611455527823, guid: 586a10e6235657f468e209c1dfed69a2, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 3964739760259888713, guid: fe65fc289a94c2f41a6933cd627ead3f, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 8654891173699810579, guid: fe65fc289a94c2f41a6933cd627ead3f, type: 2}
+    value: {fileID: 1322584277463697507}
+  - key: {fileID: -4641581203999445785, guid: 11fa405350798ba4887e72737d876297, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -3805165221065277542, guid: 11fa405350798ba4887e72737d876297, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -9112214234362326238, guid: 11fa405350798ba4887e72737d876297, type: 2}
+    value: {fileID: 1322584277463697507}
+  - key: {fileID: 6021824857597356624, guid: fe65fc289a94c2f41a6933cd627ead3f, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 316333002857690873, guid: fe65fc289a94c2f41a6933cd627ead3f, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 6159366036617516368, guid: 1fa85f4c77c6f4c4681e1c50262b66c6, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 7854022308953605508, guid: 1fa85f4c77c6f4c4681e1c50262b66c6, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 5924183728505852275, guid: 1fa85f4c77c6f4c4681e1c50262b66c6, type: 2}
+    value: {fileID: 1322584277463697507}
+  - key: {fileID: 244261837258157013, guid: 65a6c669dfa62c24b9542115462ffaf3, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 239844967405120342, guid: 65a6c669dfa62c24b9542115462ffaf3, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 7707388455373572996, guid: 65a6c669dfa62c24b9542115462ffaf3, type: 2}
+    value: {fileID: 1322584277463697507}
+  - key: {fileID: -1526916592274410756, guid: 65a6c669dfa62c24b9542115462ffaf3, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -7353989123459015986, guid: 65a6c669dfa62c24b9542115462ffaf3, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 7019631215013878299, guid: 65a6c669dfa62c24b9542115462ffaf3, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -6046418075246446570, guid: 65a6c669dfa62c24b9542115462ffaf3, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -7980918420263362379, guid: f44cc2a5b8c5cfc40ab73a31d56fbc2b, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 6337369827883182421, guid: f44cc2a5b8c5cfc40ab73a31d56fbc2b, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -4031668303105143634, guid: f44cc2a5b8c5cfc40ab73a31d56fbc2b, type: 2}
+    value: {fileID: 1322584277463697507}
+  - key: {fileID: -8102654099756972845, guid: 9e1a92ebe572e0740981db9057dab454, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -3226353265730053953, guid: 9e1a92ebe572e0740981db9057dab454, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 1741595829023493024, guid: 9e1a92ebe572e0740981db9057dab454, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -1633244367848941671, guid: 9e1a92ebe572e0740981db9057dab454, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -1281063324035831554, guid: 9e1a92ebe572e0740981db9057dab454, type: 2}
+    value: {fileID: 1322584277463697507}
+  m_ExposedReferences:
+    m_References:
+    - db4aa87ba00086541be3c41d14fdac09: {fileID: 0}
+    - 955dd889dd00a1148ac2aeaf48ae2e65: {fileID: 0}
+    - 6ec7043df6f62b64f8556a6b06677f47: {fileID: 0}
+    - 88f4749682ae53b4e83ba914ef8c665d: {fileID: 0}
+    - ae44374516ba98a4b8f76f1ed3013781: {fileID: 0}
+    - 1ed7d1304e05e0646b7a2a60f28a3011: {fileID: 0}
+    - f25e8ab7b84149147908bf7b26c793d1: {fileID: 0}
+    - d8c0251079ee8e24d8207f05dd4c9dbf: {fileID: 0}
+    - aed7e27790a27264993ff68fcd1427e5: {fileID: 0}
+--- !u!114 &1322584277463697507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322584277463697436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: 185d824d6a0109343aaf0d772c700527, type: 2}
+    - {fileID: 11400000, guid: c2d508e0350c2b24490484bfab9f9e11, type: 2}
+    - {fileID: 11400000, guid: ad39f74fbb379de40b53ace6e24f7e9f, type: 2}
+    - {fileID: 11400000, guid: 917d2c543d9fb7348879420dea41ac5d, type: 2}
+    - {fileID: 11400000, guid: ba0416cbe5e644b43adf56669d6f5eb2, type: 2}
+    - {fileID: 11400000, guid: b9ab3cccd974eef458ee2c1ae3921d3b, type: 2}
+    - {fileID: 11400000, guid: 77b09c91205a22d43a48a7bf39199615, type: 2}
+    - {fileID: 11400000, guid: c22f6138ffd4fc549a802a7ceff26102, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 0}
+          m_MethodName: set_enabled
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 0}
+          m_MethodName: set_enabled
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 0}
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 0}
+          m_MethodName: set_enabled
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 0}
+          m_MethodName: set_enabled
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+        - m_Target: {fileID: 0}
+          m_MethodName: set_enabled
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+        - m_Target: {fileID: 0}
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+        - m_Target: {fileID: 0}
+          m_MethodName: set_enabled
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 0}
+          m_MethodName: SetParent
+          m_Mode: 2
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Transform, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 0}
+          m_MethodName: SetParent
+          m_Mode: 2
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Transform, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 0}
+          m_MethodName: set_enabled
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+        - m_Target: {fileID: 0}
+          m_MethodName: Shake1
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 0}
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 0}
+          m_MethodName: set_enabled
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+    - m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 0}
+          m_MethodName: set_enabled
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
